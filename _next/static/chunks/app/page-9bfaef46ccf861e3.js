@@ -1917,14 +1917,14 @@
         },
         {
           name: "DexScreener",
-          url: "https://dexscreener.com/ethereum/0xPairComingSoon",
+          url: "https://dexscreener.com/ethereum/0xbf936d68b9b20427936265418ffd78458861ab1e",
           icon: "/icons/dexscreener-white.svg",
           hoverColor: "hover:text-green-400",
           size: 24,
         },
         {
           name: "DexTools",
-          url: "https://www.dextools.io/app/en/ether/pair-explorer/0xPairComingSoon",
+          url: "https://www.dextools.io/app/en/ether/pair-explorer/0xbf936d68b9b20427936265418ffd78458861ab1e",
           icon: "/icons/dextools-white.svg",
           hoverColor: "hover:text-purple-400",
           size: 24,
