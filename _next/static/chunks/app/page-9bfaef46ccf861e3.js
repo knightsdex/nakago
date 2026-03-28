@@ -1896,7 +1896,7 @@
       let n = [
         {
           name: "X (Twitter)",
-          url: "https://X.com/nakagocoin",
+          url: "https://X.com/nakagoInucoin",
           icon: "/icons/x-white.svg",
           hoverColor: "hover:text-blue-400",
           size: 24,
