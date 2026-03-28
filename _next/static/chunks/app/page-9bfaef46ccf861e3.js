@@ -1908,13 +1908,7 @@
           hoverColor: "hover:text-blue-500",
           size: 24,
         },
-        {
-          name: "Medium",
-          url: "https://medium.com/@NakaGo/c363e26bb988",
-          icon: "/icons/medium.svg",
-          hoverColor: "hover:text-green-500",
-          size: 28,
-        },
+       
         {
           name: "DexScreener",
           url: "https://dexscreener.com/ethereum/0xbf936d68b9b20427936265418ffd78458861ab1e",
