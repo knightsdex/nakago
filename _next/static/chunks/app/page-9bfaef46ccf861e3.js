@@ -378,7 +378,7 @@
                         "bg-gradient-to-r from-red-600 via-orange-500 to-yellow-500 hover:from-red-700 hover:via-orange-600 hover:to-yellow-600 text-white px-8 sm:px-12 py-4 sm:py-6 rounded-full shadow-2xl transform hover:scale-110 transition-all duration-300 text-lg sm:text-xl md:text-2xl lg:text-3xl font-bold",
                       asChild: !0,
                       children: (0, s.jsxs)("a", {
-                        href: "https://t.me/NakagoInu",
+                        href: "https://t.me/Nakago_Portal",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: [
@@ -1424,7 +1424,7 @@
               "\n          0 0 20px rgba(234, 88, 12, 0.3),\n          0 0 40px rgba(220, 38, 38, 0.2),\n          0 4px 15px rgba(0, 0, 0, 0.3)\n        ",
           },
           children: (0, s.jsxs)("a", {
-            href: "https://flooz.xyz/trade/0x6967b9a8c0b14849cfe8f9e5732b401433fd2898/eth/naka-go/naka",
+            href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
             target: "_blank",
             rel: "noopener noreferrer",
             className: "flex items-center gap-3 px-6 py-3 relative z-10",
@@ -1765,7 +1765,7 @@
       function d(e) {
         let { variant: t = "header", className: a = "" } = e,
           [d, c] = (0, r.useState)(!1),
-          x = "0x6967b9a8c0b14849CFE8f9E5732B401433fD2898",
+          x = "0xComingSoon",
           m = async () => {
             try {
               await navigator.clipboard.writeText(x),
@@ -1896,14 +1896,14 @@
       let n = [
         {
           name: "X (Twitter)",
-          url: "https://X.com/nakagoinu",
+          url: "https://X.com/nakagocoin",
           icon: "/icons/x-white.svg",
           hoverColor: "hover:text-blue-400",
           size: 24,
         },
         {
           name: "Telegram",
-          url: "https://t.me/NakagoInu",
+          url: "https://t.me/Nakago_Portal",
           icon: "/icons/telegram.svg",
           hoverColor: "hover:text-blue-500",
           size: 24,

@@ -383,7 +383,7 @@
               "\n          0 0 20px rgba(234, 88, 12, 0.3),\n          0 0 40px rgba(220, 38, 38, 0.2),\n          0 4px 15px rgba(0, 0, 0, 0.3)\n        ",
           },
           children: (0, t.jsxs)("a", {
-            href: "https://flooz.xyz/trade/0x6967b9a8c0b14849cfe8f9e5732b401433fd2898/eth/naka-go/naka",
+            href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
             target: "_blank",
             rel: "noopener noreferrer",
             className: "flex items-center gap-3 px-6 py-3 relative z-10",
@@ -428,7 +428,7 @@
       function c(e) {
         let { variant: r = "header", className: s = "" } = e,
           [c, d] = (0, a.useState)(!1),
-          h = "0x6967b9a8c0b14849CFE8f9E5732B401433fD2898",
+          h = "0xComingSoon",
           x = async () => {
             try {
               await navigator.clipboard.writeText(h),
@@ -559,14 +559,14 @@
       let n = [
         {
           name: "X (Twitter)",
-          url: "https://X.com/nakagoinu",
+          url: "https://X.com/nakagocoin",
           icon: "/icons/x-white.svg",
           hoverColor: "hover:text-blue-400",
           size: 24,
         },
         {
           name: "Telegram",
-          url: "https://t.me/NakagoInu",
+          url: "https://t.me/Nakago_Portal",
           icon: "/icons/telegram.svg",
           hoverColor: "hover:text-blue-500",
           size: 24,
