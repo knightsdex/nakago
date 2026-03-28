@@ -1541,7 +1541,7 @@
                   children: (0, s.jsx)("div", {
                     className: "text-gray-400 text-sm",
                     children:
-                      "\xa9 2025 Naka Go ($NAKA). All rights reserved. | Honoring the legacy since 1948.",
+                      "\xa9 2026 Naka Go ($NAKA). All rights reserved. | Honoring the legacy since 1948.",
                   }),
                 }),
               }),
