@@ -901,9 +901,9 @@
         let [e, t] = (0, o.useState)(null),
           a = [
             {
-              title: "100% Liquidity Burnt",
+              title: "Liquidity Token Locked",
               description:
-                "Liquidity tokens permanently removed from circulation, creating a stable trading environment",
+                "Liquidity tokens Locked, creating a stable trading environment",
               icon: i.A,
               color: "from-red-500 to-orange-500",
               shadowColor: "shadow-red-500/30",
