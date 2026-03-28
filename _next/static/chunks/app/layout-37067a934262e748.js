@@ -383,7 +383,7 @@
               "\n          0 0 20px rgba(234, 88, 12, 0.3),\n          0 0 40px rgba(220, 38, 38, 0.2),\n          0 4px 15px rgba(0, 0, 0, 0.3)\n        ",
           },
           children: (0, t.jsxs)("a", {
-            href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+            href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xfB046750a46F07C6B7d1ef3C211439b8cac8E892",
             target: "_blank",
             rel: "noopener noreferrer",
             className: "flex items-center gap-3 px-6 py-3 relative z-10",
@@ -428,7 +428,7 @@
       function c(e) {
         let { variant: r = "header", className: s = "" } = e,
           [c, d] = (0, a.useState)(!1),
-          h = "0xComingSoon",
+          h = "0xfB046750a46F07C6B7d1ef3C211439b8cac8E892",
           x = async () => {
             try {
               await navigator.clipboard.writeText(h),
