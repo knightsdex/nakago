@@ -1,0 +1,19 @@
+@font-face {
+  font-family: akihabored;
+  src: url(/_next/static/media/85f1c58a56f01ce2-s.p.otf) format("opentype");
+  font-display: swap;
+}
+@font-face {
+  font-family: akihabored Fallback;
+  src: local("Arial");
+  ascent-override: 83.04%;
+  descent-override: 38.32%;
+  line-gap-override: 38.9%;
+  size-adjust: 101.55%;
+}
+.__className_66bab3 {
+  font-family: akihabored, akihabored Fallback;
+}
+.__variable_66bab3 {
+  --font-akihabored: "akihabored", "akihabored Fallback";
+}
