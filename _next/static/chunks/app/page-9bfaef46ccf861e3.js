@@ -100,7 +100,7 @@
                         "w-full sm:w-auto border-2 border-orange-500 text-orange-500 hover:bg-orange-500 hover:text-white px-6 sm:px-8 py-3 sm:py-4 text-base sm:text-lg font-semibold rounded-full shadow-2xl transform hover:scale-105 transition-all duration-300",
                       asChild: !0,
                       children: (0, s.jsxs)("a", {
-                        href: "https://x.com/i/communities/1931410671792795662",
+                        href: "https://x.com/Nakagoinucoin",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: [
@@ -1273,7 +1273,7 @@
                           className:
                             "bg-gradient-to-r from-red-600 to-orange-600 hover:from-red-700 hover:to-orange-700 text-white px-8 py-6 rounded-full shadow-xl transform hover:scale-105 transition-all duration-300 group/btn",
                           children: (0, s.jsxs)("a", {
-                            href: "https://x.com/i/communities/1931410671792795662",
+                            href: "https://x.com/Nakagoinucoin",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "flex items-center gap-3",
