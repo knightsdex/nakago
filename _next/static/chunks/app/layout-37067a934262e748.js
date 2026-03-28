@@ -580,14 +580,14 @@
         },
         {
           name: "DexScreener",
-          url: "https://dexscreener.com/ethereum/0x8d345583c9289d69d4a55797ccadc5a1ea150a44",
+          url: "https://dexscreener.com/ethereum/0xPairComingSoon",
           icon: "/icons/dexscreener-white.svg",
           hoverColor: "hover:text-green-400",
           size: 24,
         },
         {
           name: "DexTools",
-          url: "https://www.dextools.io/app/en/ether/pair-explorer/0x8d345583c9289d69d4a55797ccadc5a1ea150a44",
+          url: "https://www.dextools.io/app/en/ether/pair-explorer/0xPairComingSoon",
           icon: "/icons/dextools-white.svg",
           hoverColor: "hover:text-purple-400",
           size: 24,
